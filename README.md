@@ -7,9 +7,8 @@ I specialize in Unity editor tooling, UI systems, performance optimization, and 
 
 I have experience working on live projects in production environments, collaborating closely with cross-functional teams, and maintaining evolving codebases. I value clarity, predictability, and long-term maintainability over quick but fragile solutions.
 
----
 
-### Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
@@ -25,9 +24,7 @@ I have experience working on live projects in production environments, collabora
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains)
 
 
----
-
-### Projects
+<h2>📦 Projects</h2>
 
 <table>
   <tr>
