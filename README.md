@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi 👋 I'm Dmytro Mahas  
+Unity Developer | Tools & Systems Engineer
 
-<!--
-**MagasDeveloper/MagasDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Unity Developer with over five years of experience working on both commercial and solo projects.  
+My main focus is building reliable development tools, scalable systems, and clean architectures that help teams move faster and maintain long-term project stability.
 
-Here are some ideas to get you started:
+I specialize in Unity editor tooling, UI systems, performance optimization, and modular system design.  
+I enjoy solving structural problems, simplifying complex workflows, and creating developer-friendly solutions that are easy to integrate, understand, and extend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background includes working in production environments with live projects, collaborating closely with designers and developers, and maintaining codebases that are actively evolving. I value clarity, predictability, and thoughtful architecture over quick but fragile solutions.
+
+---
+
+### Development Tools
+- Jira  
+- Confluence  
+- Git (GitHub / GitLab, Fork)  
+- Slack  
+- Google Cloud  
+- JetBrains Rider / Visual Studio  
+
+---
+
+### Tech Stack
+Unity • C# • UI Toolkit • UGUI • Editor Tools • Architecture • Performance
