@@ -27,10 +27,6 @@ I have experience working on live projects in production environments, collabora
 
 ---
 
-### Own Projects
-
----
-
 ### Projects
 
 <table>
