@@ -1,5 +1,4 @@
 ## Hi 👋 I'm Dmytro Mahas  
-### Unity Developer | Tools & Systems Engineer
 
 I am a Unity Developer with over five years of experience in both commercial and solo projects, focused on building reliable development tools, scalable systems, and clean architectures.
 
@@ -23,39 +22,8 @@ I have experience working on live projects in production environments, collabora
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains)
 
-
-<h2>📦 Projects</h2>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MagasDeveloper/ListView">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MagasDeveloper&repo=ListView&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MagasDeveloper/Configs">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MagasDeveloper&repo=Configs&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MagasDeveloper/ScrollCamera">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MagasDeveloper&repo=ScrollCamera&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MagasDeveloper/MenuManager">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MagasDeveloper&repo=MenuManager&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+---
 
 In addition to open-source projects, I also develop <a href="https://localify.carrd.co/"><b>Localify</b></a> — a commercial localization plugin for Unity,
 created with care and a strong focus on clean architecture and developer experience.
-
-
 
